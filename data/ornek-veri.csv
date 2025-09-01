@@ -1,6 +1,6 @@
-isim,yas,maas,cinsiyet
-Ali,25,5000,E
-Ayşe,30,6000,K
-Mehmet,22,4500,E
-Zeynep,35,7000,E
-Ahmet,28,5200,K
+isim,yas,maas,cinsiyet,uniq_id
+Ali,25,5000,E,1
+Ayşe,30,6000,K,2
+Mehmet,22,4500,E,3
+Zeynep,35,7000,K,4
+Ahmet,28,5200,E,5
